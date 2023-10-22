@@ -1,2 +1,2 @@
 # AlgorithmAnalysis
-[AlgoritmosBusqueda_174723.docx](https://github.com/annlima/AlgorithmAnalysis/files/13064708/AlgoritmosBusqueda_174723.docx)
+[AlgoritmosBusqueda_174723.pdf](https://github.com/annlima/AlgorithmAnalysis/files/13064709/AlgoritmosBusqueda_174723.pdf)
